@@ -1,1 +1,1 @@
-alert("Welcome to Coding for Kids!");
+alert("Welcome to Coding!");
